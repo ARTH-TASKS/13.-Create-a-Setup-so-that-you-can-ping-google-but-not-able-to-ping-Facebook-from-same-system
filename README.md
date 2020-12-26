@@ -15,7 +15,7 @@ Give the range in RT which has google IP in it but not of FB IP.
 Linkedin: https://www.linkedin.com/in/akshay-anil-26672a172/
 
 
-Website: https://www.linkedin.com/in/akshay-anil-26672a172/
+Website: https://akshayanil1080.github.io/mywebsite/
 
 
 Medium: https://akshay-anil-blogs.medium.com/create-a-setup-so-that-you-can-ping-google-but-not-able-to-ping-facebook-from-the-same-system-373cb0586794
